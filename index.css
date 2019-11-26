@@ -1,0 +1,37 @@
+.head{
+    background-image: url(./download.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.h1{
+    text-align: center;
+    position: relative;
+    margin-top: 40px;
+    font-size: 60px;
+    color: white;
+}
+.h3{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+#i1{
+    position: relative;
+    left:15%;
+    margin-left: 30px;
+    margin-right:20px;
+    font-size:30px;
+    color:blue;
+
+}
+#i2{
+    position: relative;
+    left:43%;
+    margin-left: 30px;
+    margin-right:20px;
+    font-size:30px;
+    color:blue;
+
+}
