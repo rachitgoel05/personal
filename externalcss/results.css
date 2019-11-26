@@ -1,0 +1,18 @@
+.head{  
+    background-image: url(./download-background.jpg)
+}
+table{
+    width:100%;
+    border: 1px solid white;
+}
+th{
+    color:white;
+}
+td{
+    color:white;
+    font-size: 30px;
+    text-align:center;
+}
+a{
+    color:white;
+}
